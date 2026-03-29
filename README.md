@@ -58,7 +58,3 @@ This project analyzes tweets related to COVID-19 vaccination and performs sentim
 ## 📈 Result
 
 The model predicts sentiment of tweets and helps understand public opinion on vaccination.
-
----
-
----
